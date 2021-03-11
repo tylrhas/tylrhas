@@ -4,7 +4,7 @@
 Hi, I'm Tyler Hasenoehrl a self-taught Full Stack Web Developer. My passion for software lies in coming up with tools that will make others lives and jobs easier. I take great care in the code quality of things that I build. 
 
 
-- 🔭 I’m currently working on a client onboarder that will gather assets and greatly decrease the time it takes G5 to build the website
+- 🔭 I’m currently working on a client onboarder for gathering assets and and information
 - 💬 Ask me about anything I am happy to help
 - 📫 How to reach me: tylrhas@gmail.com
 
