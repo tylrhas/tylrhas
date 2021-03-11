@@ -1,7 +1,7 @@
 ### Hey there 👋
 
 
-Hi, I'm Tyler Hasenoehrl a self-taught Full Stack web developer. My passion for software lies with coming up with tools that will make others lives and jobs easier. I take great care in the code quality of things that I build. 
+Hi, I'm Tyler Hasenoehrl a self-taught Full Stack Web Developer. My passion for software lies with coming up with tools that will make others lives and jobs easier. I take great care in the code quality of things that I build. 
 
 
 - 🔭 I’m currently working on a client onboarder that will gather assets and greatly decrease the time it takes G5 to build the website
