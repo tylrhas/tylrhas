@@ -4,7 +4,7 @@
 Hi, I'm Tyler Hasenoehrl a self-taught Full Stack Web Developer. My passion for software lies in coming up with tools that will make others lives and jobs easier. I take great care in the code quality of things that I build. 
 
 
-- 🔭 I’m currently working on a variety of tool at Vector Remote Care
+- 🔭 I’m currently working on a variety of tools at Vector Remote Care
 - 💬 Ask me about anything I am happy to help
 - 📫 How to reach me: tylrhas@gmail.com
 
